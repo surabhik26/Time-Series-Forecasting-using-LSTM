@@ -1,8 +1,6 @@
 # Time Series Forecasting Using LSTM
 
-This repository contains an implementation of **time series forecasting** using **LSTM (Long Short-Term Memory)** networks.  
-It demonstrates how deep learning models can capture temporal dependencies in sequential data to make future predictions.  
-The code is written in **Python** using **TensorFlow** or **PyTorch** (depending on your notebook setup).
+This repository contains an implementation of **time series forecasting** using **LSTM (Long Short-Term Memory)** networks. It demonstrates how deep learning models can capture temporal dependencies in sequential data to make future predictions. The code is written in **Python** using **TensorFlow** or **PyTorch** (depending on your notebook setup).
 
 ## Features
 
